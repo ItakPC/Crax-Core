@@ -1,0 +1,15 @@
+﻿{
+	"displayName": "Soul Shard",
+	"size": [32, 32],
+	"maxStack": 99,
+	"value": [0, 0, 3, 0],
+	"rare": 2,
+	"tooltip": "A weird stone charged with souls of mobs.",
+	
+	"recipes":
+    [{
+        "items": { "Dirt Block": 2 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}			

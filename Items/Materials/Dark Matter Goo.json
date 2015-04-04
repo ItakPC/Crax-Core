@@ -1,0 +1,15 @@
+{
+	"displayName": "Dark Matter Goo",
+	"size": [20, 20],
+	"maxStack": 99,
+	"value": [0, 1, 0, 0],
+	"rare": 2,
+	"tooltip": "Nice to touch.",
+	
+	"recipes":
+    [{
+        "items": { "Dirt Block": 2 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}			
