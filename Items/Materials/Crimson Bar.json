@@ -1,0 +1,16 @@
+{
+	"displayName": "Crimson Bar",
+	"size": [32, 32],
+	"maxStack": 99,
+	"value": [0, 0, 5, 0],
+	"rare": 2,
+	"tooltip": "It's Crimtane's big brother.",
+	
+	"recipes":
+    [{
+        "items": { "CraxCore:Crimson Ore": 4 },
+        "tiles": [ "Furnace" ],
+        "creates": 1
+    }]
+
+}			

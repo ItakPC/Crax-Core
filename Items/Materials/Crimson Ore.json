@@ -1,0 +1,15 @@
+{
+	"displayName": "Crimson Ore",
+	"size": [32, 32],
+	"maxStack": 99,
+	"value": [0, 0, 5, 0],
+	"rare": 3,
+	
+	"recipes":
+    [{
+        "items": { "Dirt Block": 1 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+
+}			
