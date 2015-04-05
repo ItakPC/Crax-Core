@@ -1,0 +1,18 @@
+{
+    "displayName": "Zardos Leggings",
+    "size": [22,18],
+    "maxStack": 1,
+    "value": [0,0,5,0],
+    "rare": 1,
+    "defense": 125,
+    "tooltip": "Can you get it?",
+    "armorLegs": true,
+    "setname": "Zardos",
+
+    "recipes":
+    [{
+        "items": { "Dirt Block": 1 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}

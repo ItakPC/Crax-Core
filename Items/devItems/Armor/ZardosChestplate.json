@@ -1,0 +1,19 @@
+{
+    "displayName": "Zardos Chestplate",
+    "size": [30,20],
+    "maxStack": 1,
+    "value": [0,0,7,0],
+    "rare": 1,
+    "defense": 150,
+    "tooltip": "You can get it but it kills you.",
+    "armorBody": true,
+    "hasHands": false,
+    "setname": "Zardos",
+
+    "recipes":
+    [{
+        "items": { "Dirt Block": 1 },
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+    }]
+}
