@@ -1,5 +1,6 @@
 {
     "displayName": "Zardos Chestplate",
+	"code": "Items.devItems.Armor.ZardosChestplate.cs",
     "size": [30,20],
     "maxStack": 1,
     "value": [0,0,7,0],
