@@ -1,0 +1,24 @@
+{
+	"displayName": "Sword Of The Corruptor",
+	"size": [54, 54],
+	"maxStack": 1,
+	"value": [0, 5, 0, 0],
+	"rare": 6,
+	"tooltip": "Night's Edge ripoff!",
+	"useStyle": 1,
+	"useAnimation": 12,
+	"useTime": 4,
+	"damage": 65,
+	"knockback": 7,
+	"useSound": 1,
+	"autoReuse": true,
+	"useTurn": true,
+	"melee": true,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 },
+		"tiles": [ "Work Bench" ],
+		"creates": 1
+	}]
+}			

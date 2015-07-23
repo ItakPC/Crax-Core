@@ -1,0 +1,10 @@
+Nature's Excalibur - Shoots powerful projectile x5, Large knockback, Poison Debuff, Very Fast Speed, ~200dmg
+Soul Blade - Large size, Fast Speed, ~150dmg, steals souls
+Time Shifter - Day/Night
+Poseidon's Fishing Pole - 200% fishing power 
+Essences - Grass (Dropped by mobs in plains), Stone (Dropped by mobs in underground), Fire (Dropped by mobs in hell), Water (Dropped by mobs in ocean), Dark (Dropped by mobs in corruption/crimson), Light (Dropped by mobs in hallow), Air, Void, Ice(Dropped by mobs in ice), Desert (Dropped by mobs in desert/beach) 
+The Outer Lands - Biome 
+The Singluarity - Boss (Outer Lands) (Void Essence)
+Dragon Lord - Boss (Air Essence)
+Eternal Blade - Projectiles home on enemy, ~300dmg
+Soul Blessed Zombie/Eye drops Soul Shard

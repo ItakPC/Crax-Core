@@ -1,0 +1,24 @@
+{
+	"displayName": "Evoseptor",
+	"size": [48, 52],
+	"maxStack": 1,
+	"value": [0, 12, 0, 0],
+	"rare": 7,
+	"tooltip": "From the evil parts of the world.",
+	"useStyle": 1,
+	"useAnimation": 12,
+	"useTime": 3,
+	"damage": 95,
+	"knockback": 10,
+	"useSound": 1,
+	"autoReuse": true,
+	"useTurn": true,
+	"melee": true,
+	
+	"recipes":
+	[{
+		"items": { "Dirt Block": 1 },
+		"tiles": [ "Work Bench" ],
+		"creates": 1
+	}]
+}			
